@@ -164,7 +164,7 @@ async def bot(event):
         await event.answer("You can't use this bot.", alert=True)
 
 @bot.on(events.callbackquery.CallbackQuery(data=re.compile(b"custom")))
-      if event.sender_id == OWNER_ID:
+    if event.sender_id == OWNER_ID:
         await event.reply(event.chat_id, "WHAT YOU WANNNA TO CHANGE IN YOUR PM SECURITY BOT👀", Button=[
                               Button.inline("PM PIC🖼️", data="pmpic"), 
                               Button.inline("PM TEXT", data="pmtext")]
