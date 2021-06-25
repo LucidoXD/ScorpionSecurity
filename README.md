@@ -88,7 +88,13 @@ bot will send you no. starting from -100....
 COLLECT ALL DETAILS RIGHT...!
 IF GETTING PROBLEM CONTACT TO SUPPORT CHAT
 ```
-  <p align="left"><a href="https://heroku.com/deploy?template=https://github.com/LucidoXD/ScorpionSecurity all.git"> <img src="https://img.shields.io/badge/Deploy%20to%20Heroku%20-black?style=for-the-badge&logo=heroku" width="250" height="50.50"/></a></p>
+ #DEPLOY [CLONE]
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/LucidoXD/ScorpionSecurity"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+
+
+
+
 
 # ~ BoT By [PsychoBots](https://t.me/Psycho_Bots) ~
 
